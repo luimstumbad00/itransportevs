@@ -1,0 +1,15 @@
+.bg-cabeza{
+    background-color: #000; 
+    color: #000; 
+    border-color:  #FF5757; 
+}
+.bg-pobre{
+    background-color: #000; 
+    color: #000; 
+    border-color:  #59D9D9; 
+}
+.bg-premium{
+    background-color: #000; 
+    color: #000; 
+    border-color:  #BDF26D; 
+}
